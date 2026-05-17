@@ -1,0 +1,10 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Detailed Bread Loaf -->
+  <path d="M25 75C25 55 55 45 75 45C95 45 115 55 115 75C115 90 95 95 75 95C55 95 25 90 25 75Z" fill="#FFB74D" stroke="#5D4037" stroke-width="4"/>
+  <path d="M45 60L55 70M70 58L80 68M95 62L105 72" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.6"/>
+  
+  <!-- Small Bun side -->
+  <circle cx="45" cy="95" r="18" fill="#FFE082" stroke="#5D4037" stroke-width="3"/>
+  <circle cx="40" cy="85" r="2" fill="#8D6E63" />
+  <circle cx="50" cy="88" r="2" fill="#8D6E63" />
+</svg>

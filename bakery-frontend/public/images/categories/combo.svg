@@ -1,0 +1,10 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Detailed Shopping Bag -->
+  <rect x="55" y="45" width="50" height="60" rx="6" fill="#8D6E63" stroke="#3E2723" stroke-width="3" />
+  <path d="M70 45V35C70 25 90 25 90 35V45" stroke="#3E2723" stroke-width="4" stroke-linecap="round" />
+  <text x="68" y="85" fill="white" font-family="Arial" font-size="22" font-weight="bold">%</text>
+  
+  <!-- Detailed Croissant -->
+  <path d="M20 100Q35 75 60 85Q75 95 90 105" stroke="#FFB74D" stroke-width="20" stroke-linecap="round" />
+  <path d="M35 85L40 98M55 88L60 102M75 95L80 108" stroke="white" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Detailed Cup -->
+  <path d="M45 100L40 70H80L75 100C73 105 68 108 60 108C52 108 47 105 45 100Z" fill="#795548" stroke="#3E2723" stroke-width="3"/>
+  <path d="M50 70V100M60 70V108M70 70V100" stroke="#5D4037" stroke-width="2"/>
+  
+  <!-- Bubbly Frosting Layers -->
+  <path d="M35 70C35 55 85 55 85 70" fill="#F8BBD0" stroke="#3E2723" stroke-width="2.5"/>
+  <path d="M42 60C42 45 78 45 78 60" fill="#F48FB1" stroke="#3E2723" stroke-width="2"/>
+  <path d="M50 50C50 40 70 40 70 50" fill="#F06292" stroke="#3E2723" stroke-width="1.5"/>
+  
+  <!-- Detailed Heart -->
+  <path d="M60 45C60 45 50 35 50 28C50 23 55 20 60 25C65 20 70 23 70 28C70 35 60 45 60 45Z" fill="#FF1744" stroke="#3E2723" stroke-width="2"/>
+</svg>

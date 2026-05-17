@@ -1,0 +1,17 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Detailed Cake Body -->
+  <path d="M25 65C25 55 95 55 95 65V90C95 100 80 105 60 105C40 105 25 100 25 90V65Z" fill="#FFF8E1" stroke="#5D4037" stroke-width="3"/>
+  
+  <!-- Drip Layer -->
+  <path d="M25 65C25 75 35 85 45 75C55 65 65 95 75 75C85 55 95 75 95 65V60C95 50 25 50 25 60V65Z" fill="#F48FB1" stroke="#5D4037" stroke-width="2"/>
+  
+  <!-- Cream Swirls -->
+  <circle cx="45" cy="55" r="8" fill="white" stroke="#5D4037" stroke-width="1.5"/>
+  <circle cx="75" cy="55" r="8" fill="white" stroke="#5D4037" stroke-width="1.5"/>
+  <circle cx="60" cy="50" r="10" fill="white" stroke="#5D4037" stroke-width="1.5"/>
+  
+  <!-- Big Strawberry -->
+  <path d="M60 50C60 50 50 48 50 35C50 28 60 25 60 25C60 25 70 28 70 35C70 48 60 50 60 50Z" fill="#FF1744" stroke="#5D4037" stroke-width="2"/>
+  <circle cx="56" cy="32" r="1" fill="white" opacity="0.6"/>
+  <circle cx="64" cy="40" r="1" fill="white" opacity="0.6"/>
+</svg>

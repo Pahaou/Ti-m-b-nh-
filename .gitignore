@@ -1,0 +1,17 @@
+node_modules/
+.env
+.env.local
+bakery-backend/certs/
+dist/
+build/
+.DS_Store
+*.log
+.vscode/
+.idea/
+bakery-frontend/node_modules/
+bakery-backend/node_modules/
+bakery-frontend/dist/
+bakery-backend/dist/
+.vercel
+.env*.local
+scratch/

@@ -1,0 +1,15 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Detailed Mousse Slice -->
+  <path d="M25 80L95 65V100L25 115V80Z" fill="#795548" stroke="#3E2723" stroke-width="2"/>
+  <path d="M25 92L95 77V87L25 102V92Z" fill="#FFF8E1" />
+  <path d="M25 100L95 85V92L25 107V100Z" fill="#A1887F" />
+  
+  <!-- Top Cream and Garnish -->
+  <path d="M25 80Q60 60 95 65Q70 85 25 80Z" fill="#E0E0E0" stroke="#3E2723" stroke-width="1.5"/>
+  <circle cx="50" cy="72" r="3" fill="#3E2723" />
+  <circle cx="70" cy="68" r="3" fill="#3E2723" />
+  <circle cx="85" cy="66" r="2.5" fill="#3E2723" />
+  
+  <!-- Mint Leaf -->
+  <path d="M45 65Q55 45 65 55" stroke="#4CAF50" stroke-width="4" stroke-linecap="round"/>
+</svg>
